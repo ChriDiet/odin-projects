@@ -1,0 +1,32 @@
+button {
+   background-color: #a7706580;
+   font-size: 20px;
+   border:none;
+   padding: 13px 25px;
+   align-content: center;
+   text-decoration: none;
+   display: inline-block;
+   color: #00000090;
+   border-radius: 15px;
+   transition-duration: 0.3s;
+   float: left;
+   position: center;
+   
+
+}
+button:hover {
+   background-color: #a77065;
+   color: #000000;
+}
+
+#overskrift {
+   color: #ffffff;
+   background-color: #a77065;
+   font-family:helvetica,arial,sans-serif;
+   font-size: 23px;
+   text-align: center;
+}
+.logo {
+   text-align: center;
+}
+
