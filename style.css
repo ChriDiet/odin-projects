@@ -10,9 +10,6 @@ button {
    border-radius: 15px;
    transition-duration: 0.3s;
    float: left;
-   position: center;
-   
-
 }
 button:hover {
    background-color: #a77065;
