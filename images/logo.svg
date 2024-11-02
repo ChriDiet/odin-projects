@@ -3,7 +3,7 @@
   <defs>
     <style>
       .cls-1 {
-        font-family: Norse-Bold, Norse;
+        font-family: Norse-Bold, Norse, "sans serif";
         font-size: 73.98px;
         font-weight: 700;
       }
